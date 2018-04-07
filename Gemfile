@@ -2,7 +2,7 @@ source 'http://rubygems.org'
 
 gemspec
 
-gem 'spree', '1.2.0'
+gem 'spree', '3.3'
 gem 'sqlite3'
 
 group :test do
